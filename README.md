@@ -38,7 +38,5 @@ A simple **E-Commerce Website** built using **PHP, MySQL, HTML, CSS, and JavaScr
 - Wishlist
 - Order History
 
-## 👨‍💻 Author
-
 **Your Name**
 ```# ECOMMERCE
